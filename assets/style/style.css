@@ -1,0 +1,24 @@
+.header {
+  background-color: rgb(41, 37, 37);
+  text-decoration: none;
+}
+
+.title_header {
+  align-items: center;
+  font-size: bolder;
+}
+
+.main {
+  background-color: rgba(181, 200, 216, 0.5);
+  padding-top: 50px;
+  padding-bottom: 50px;
+  border-radius: 5px;
+}
+
+.card {
+  text-align: center;
+}
+
+.footer {
+  background-color: rgb(41, 37, 37);
+}
